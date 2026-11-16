@@ -1,0 +1,6 @@
+[
+  { "name": "01-kestrel-basin.png", "query": "?shot=cover" },
+  { "name": "02-armory.png", "query": "?shot=armory" },
+  { "name": "03-salt-yard.png", "query": "?shot=site" },
+  { "name": "04-device-armed.png", "query": "?shot=plant" }
+]
